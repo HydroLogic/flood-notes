@@ -1,0 +1,44 @@
+
+
+
+# Opportunities in inland flood
+
+## The NFIP
+
+* [HR. 2901 - Flood Insurance Market Parity and Modernization Act](https://www.congress.gov/bill/114th-congress/house-bill/2901)
+  - Opens private flood endorsments for mortgage backed buildings
+    + Private flood insurance shall include, in addition to a policy issued by a company licensed, admitted, or otherwise approved by the state (as in current law), any policy issued by an insurance company eligible as a nonadmitted insurer to provide flood insurance in the state or jurisdiction where the property to be insured is located.
+  - [NAPSLO - Market report on regulation](http://napslo.org/docs/PDF/Legislative/HR2901%20Briefing%20Memo%20-%20Feb%2022%202016.pdf)
+
+## Current market solutions
+
+Admitted:
+* NFIP 
+  - Pros:
+    + Rating's broken out by flood zone
+    + 
+  - Cons:
+    + Rating's uniform accross country
+    + Costly/lengthy elevation certificate process
+    + Low risk over priced
+* Palomar Specialty
+* NFS Edge
+  - 
+* [MunichRe](https://www.munichre.com/us/weather-resilience-and-protection/rise-weather/weather-events/flood/index.html)
+  * [Press release about Inland flood product - 2015](https://www.munichre.com/us/property-casualty/press-news/press-releases/2015/150804-inlandflood/index.html)
+  * [Business solitons - Reinsurance inalnd flood](https://www.munichre.com/us/property-casualty/business-solutions/reinsurance/reinsurance-flood/index.html)
+    - [Link to PDF](https://www.munichre.com/site/mram-mobile/get/documents_E769760952/mram/assetpool.mr_america/PDFs/1_Business_Solutions/Inland_Flood_Product_FS.pdf)
+    - Offer two inland flood coverage options - providing flexibility to better suit the particular needs of agents and policyholders. 
+      + Stand alone flood endorsement
+      + Combined flood with sewer/drain endorsement 
+  * [How to read flood maps](https://www.munichre.com/us/weather-resilience-and-protection/rise-weather/weather-events/flood/flood-hazard-map/index.html)
+![NFIP Stats from their page](https://www.munichre.com/site/mram-mobile/get/documents_E484045048/mram/assetpool.mr_america/Images/5_Press_News/Press%20Releases/2015/flood/Flood_1_FEMA_Map_8-4-2015.jpg)
+
+* [Hiscox FloodPlus](http://www.hiscoxlondonmarket.com/flood-programmes)
+  - 
+* [Wright Flood](http://www.wrightflood.com/)
+
+
+
+
+## Random Images

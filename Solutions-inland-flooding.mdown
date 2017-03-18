@@ -1,0 +1,37 @@
+# Developing a solution for inland flooding
+
+## Summary
+* There is a land-grab going on. 
+  - Private market taking over-priced risks away from NFIP
+* This market movement gives SCOR opportunity to develop best-in-class portfolio
+  - Relationships with emerging US MGA's
+  - Better rating of complex commercial through SBS and Channel
+
+
+## What is the problem
+* Government doesn't allow bank backed private flood products
+  - HR 2901 not moving
+  - Possible help from Trump administration
+* Current products mimic NFIP with increased limits
+  - Rates at state or national level by FEMA zones
+    + These zones are static views of risk (return period vs. model results)
+  - Mainly target low-risk (x-zone) areas
+    + No forced placed insurance
+  - Exclude high risk zones (Special Flood Hazard Areas - SFHL)
+
+## What can we do
+* Build company view of market potential
+  - Which zones offer highest possible premium/aal ratios
+  - Where NFIP overprices in both SFHL and low risk zones
+* Develop high resolution rating tables 
+  - Used cross-company: Channel, SBS, US MGA's
+
+## What's been done
+* Developed a geospatial database to automate NFIP pricing:
+  - Step 1: Input latitude/longitude to lookup flood zone (zone)
+  - Step 2: If flood zone AE / VE then pull base flood elevation (cross section)
+  - Step 3: Find elevation delta to pull zone rates and price risk
+* Pre-defined high resolution rating tables based off Aon IF Flood Model
+  - Includes AAL for flood / surge by flood zone ID
+  - Can be extended with AIR / RMS model views
+  - 
